@@ -1,0 +1,5 @@
+
+def onetwothree(x):
+    return x*1, x*2, x*3
+
+print(onetwothree(3))
